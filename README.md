@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sandeep-s-s](https://github.com/sandeep-s-s)
 
-- 📝 I regularly write articles on [https://hikernote.xyz/](https://hikernote.xyz/)
-
 - 💬 Ask me about **Java,Php**
 
 - 📫 How to reach me **sandeepsreekumar75@gmail.com**
