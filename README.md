@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sandeep-s-s](https://github.com/sandeep-s-s)
 
-- 💬 Ask me about **Java,Php**
+- 💬 Ask me about **Java,Python,PHP**
 
 - 📫 How to reach me **sandeepsreekumar75@gmail.com**
 
