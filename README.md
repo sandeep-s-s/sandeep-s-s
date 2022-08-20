@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep S S</h1>
 <h3 align="center">A full stack developer from 🇮🇳</h3>
 
-- 🔭 I’m currently working at [Kerala Goods and Services Tax Department](https://keralataxes.gov.in/)
+- 🔭 I’m  working as a Software Engineer 
 
 - 🌱 I’m currently learning **Python**
 
