@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep S S</h1>
-<h3 align="center">Programmer 👨‍💻 </h3>
+<h3 align="center">Mechanic ⚙️🔧 </h3>
 
 - 🔭 I’m  working as a Software Engineer 
 
